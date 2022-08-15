@@ -1,5 +1,5 @@
 # setup-python-jupyter-notebook-in-termux
-
+...
 pkg update
 pkg install python3
 mkdir 220815myNProject
@@ -7,6 +7,7 @@ python3 -m venv 220815myNProject
 cd 220815myNProject
 source bin/activate
 pip install jupyterlab
+...
 //solve libxml issue :
 //https://www.reddit.com/r/termux/comments/c4ot4q/cant_find_solution_to_this_problem/
 pkg install libxslt
