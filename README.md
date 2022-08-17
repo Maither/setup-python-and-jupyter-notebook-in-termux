@@ -16,4 +16,4 @@ pkg install libxslt
 pip install notebook
 jupyter notebook
 ```
-Copie paste the link from the consol in a navigator
+Copy paste the link from the console in a navigator
